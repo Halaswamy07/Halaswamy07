@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Halaswamy G</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coder%20programmer%20gif&udm=2&tbs=rimg:CXW632-XbxzuYQiXYHCnXDdIsgINEAA6BAgAEABVhzzZPsACANgCAOACAA&hl=en&sa=X&ved=0CBoQuIIBahcKEwjYu8Cw6YiHAxUAAAAAHQAAAAAQBg&biw=1280&bih=631&dpr=1.5#vhid=PXLAloFJw---QM&vssid=mosaic")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halaswamy07&label=Profile%20views&color=0e75b6&style=flat" alt="halaswamy07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halaswamy07" alt="halaswamy07" /></a> </p>
 
 - 🔭 I’m currently working on **GreenyApp**
 
