@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Halaswamy G</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-ai-image/3d-rendering-kid-playing-digital-game_72603692.htm#query=cartoon%20programmer&position=1&from_view=keyword&track=ais_user&uuid=2fefb170-4683-4a68-aab1-82e3b82102be")
+(img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=bb6fb22019ea88f6&sxsrf=ADLYWIImrg72mAn3HZ7ev7LMggFWODYVZg:1719938596214&q=coding+gif+png&uds=ADvngMilMy9Dq4SvYR7gUmRXnb9uObE8X3vCJw8c_AlF3rCPfzIiWMZqfjI-op2lD9nz8L-_ahmajbUDTEva6dBQoL5SaADoSjCK90_AHjw_Zl1V86N3mqfAWIc1pLn-ILijKJ08Tutw1vG_XxrS7l8KoFPjeUKZkA&udm=2&sa=X&ved=2ahUKEwjD-r_I5oiHAxWIYvUHHRHIDiQQxKsJegQIBxAB&ictx=0&biw=1280&bih=631&dpr=1.5#imgrc=MCoB-YCAMSiBeM&imgdii=d_ogi0NtKeU8-M")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halaswamy07&label=Profile%20views&color=0e75b6&style=flat" alt="halaswamy07" /> </p>
 
