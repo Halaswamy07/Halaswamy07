@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halaswamy G</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coder%20programmer%20gif&udm=2&tbs=rimg:CXW632-XbxzuYQiXYHCnXDdIsgINEAA6BAgAEABVhzzZPsACANgCAOACAA&hl=en&sa=X&ved=0CBoQuIIBahcKEwjYu8Cw6YiHAxUAAAAAHQAAAAAQBg&biw=1280&bih=631&dpr=1.5#vhid=PXLAloFJw---QM&vssid=mosaic")
+(img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coder+programmer+gif+pintrest&sca_esv=bb6fb22019ea88f6&udm=2&hl=en&biw=1280&bih=631&sxsrf=ADLYWILIWSNUrrIY7s9SftPSdJbz5rL4cg%3A1719939368196&ei=KDGEZt7eC6701e8P8oyUKA&ved=0ahUKEwjeks646YiHAxUuevUHHXIGBQUQ4dUDCBA&uact=5&oq=coder+programmer+gif+pintrest&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWNvZGVyIHByb2dyYW1tZXIgZ2lmIHBpbnRyZXN0SJUvUN4EWOAmcAF4AJABAJgBkAGgAcMJqgEDMC45uAEDyAEA-AEBmAIBoAIFwgIEECMYJ5gDAIgGAZIHATGgB5UD&sclient=gws-wiz-serp#vhid=OeEXl_EJeISm-M&vssid=mosaic")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halaswamy07&label=Profile%20views&color=0e75b6&style=flat" alt="halaswamy07" /> </p>
 
